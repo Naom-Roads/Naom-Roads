@@ -4,15 +4,17 @@
 Passionate about design, automation, and human-centered technology.  
 I build things that help people focus on what matters most.
 
-I’m a software engineer and co-founder at [TalkWiz.ai](https://talkwiz.ai), where I build AI-powered tools that automate appointment scheduling and client communication.  
-My work focuses on creating seamless, human-like interactions through automation and intelligent systems.
-
 ---
 
 ### 🧠 What I’m Working On
-- Building and scaling [TalkWiz.ai](https://github.com/naomsTalkwiz) — integrating AI with real-world communication flows  
+
+I’m a software engineer and co-founder at [TalkWiz.ai](https://talkwiz.ai), where I build AI-powered tools that automate appointment scheduling and client communication.  
+
+My work focuses on creating seamless, human-like interactions through automation and intelligent systems.
+
+- Building and scaling [TalkWiz.ai](https://github.com/naomsTalkwiz) — integrating AI with real-  world communication flows  
 - Experimenting with conversational UX and automation pipelines  
-- Exploring sustainable, efficient approaches to software design
+- Exploring sustainable, efficient approaches to software design as well as a strong focus on  effeciency and security. 
 
 ---
 
