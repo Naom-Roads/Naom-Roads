@@ -1,6 +1,10 @@
 # 👋 Hey, I’m Naom Roads
 
-I’m a software engineer and co-founder at [TalkWiz.ai](https://talkwiz.ai/), where I build AI-powered tools that automate appointment scheduling and client communication.  
+**Engineer, builder, and co-founder — blending logic, creativity, and empathy.**  
+Passionate about design, automation, and human-centered technology.  
+I build things that help people focus on what matters most.
+
+I’m a software engineer and co-founder at [TalkWiz.ai](https://talkwiz.ai), where I build AI-powered tools that automate appointment scheduling and client communication.  
 My work focuses on creating seamless, human-like interactions through automation and intelligent systems.
 
 ---
@@ -20,22 +24,27 @@ Some of these are older, but they reflect how I grew as a developer. You’ll fi
 - `developer-portfolio` – React-based showcase app  
 *(Older repos are archived, but kept for transparency.)*
 
-> 🔐 Most of my active code contributions now live in **private repositories** under the [TalkWiz.ai GitHub organization]([https://github.com/TalkWiz](https://github.com/naomsTalkwiz).
+> 🔐 Most of my active code contributions now live in **private repositories** under the [TalkWiz.ai GitHub organization](https://github.com/naomsTalkwiz).
 
 ---
 
 ### 🛠️ Current Stack
-**Languages:** JavaScript / TypeScript / Ruby / Python / C# 
+
+**Languages:** JavaScript / Ruby / Python / C#  
 **Frameworks:** React, Node.js, Express, Ruby on Rails  
-**Tools:** GitHub Actions, Docker, PostgreSQL, AWS  
-**Other:** AI integrations, automation systems, conversational design, SASS applications
+**Tools:** GitHub Actions, Docker, Kubernetes, PostgreSQL, AWS  
+**Infrastructure / Hosting:** Render, Heroku, Firebase  
+**Testing / Debugging:** Postman, Byebug, Pry, RSpec, Capybara, Rollbar, BetterStack, PaperTrail  
+**AI / Automation / Productivity:** Twilio, Telnyx, Windsurf, OpenAI, RunwayAI
 
 ---
 
 ### 🌍 About Me
+
 - Based in **Paris, France** 🇫🇷  
 - Passionate about building clean, scalable tools that make communication easier  
 - Advocate for thoughtful automation and human-centered AI  
+- Volunteering for an arts project combining creativity and community  
 - Also a DJ and producer — I like mixing creativity and technology 🎶  
 
 ---
