@@ -1,12 +1,12 @@
 # 👋 Hey, I’m Naom Roads
 
-I’m a software engineer and co-founder at [TalkWiz.ai](https://talkwiz.ai), where I build AI-powered tools that automate appointment scheduling and client communication.  
+I’m a software engineer and co-founder at [TalkWiz.ai](https://talkwiz.ai/), where I build AI-powered tools that automate appointment scheduling and client communication.  
 My work focuses on creating seamless, human-like interactions through automation and intelligent systems.
 
 ---
 
 ### 🧠 What I’m Working On
-- Building and scaling [TalkWiz.ai](https://talkwiz.ai) — integrating AI with real-world communication flows  
+- Building and scaling [TalkWiz.ai](https://github.com/naomsTalkwiz) — integrating AI with real-world communication flows  
 - Experimenting with conversational UX and automation pipelines  
 - Exploring sustainable, efficient approaches to software design
 
@@ -20,7 +20,7 @@ Some of these are older, but they reflect how I grew as a developer. You’ll fi
 - `developer-portfolio` – React-based showcase app  
 *(Older repos are archived, but kept for transparency.)*
 
-> 🔐 Most of my active code contributions now live in **private repositories** under the [TalkWiz.ai GitHub organization](https://github.com/TalkWizAI).
+> 🔐 Most of my active code contributions now live in **private repositories** under the [TalkWiz.ai GitHub organization]([https://github.com/TalkWiz](https://github.com/naomsTalkwiz).
 
 ---
 
