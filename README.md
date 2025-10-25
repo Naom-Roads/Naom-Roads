@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Naom Roads
+# 👋 Hey, I’m Naomi 
 
 **Engineer, builder, and co-founder — blending logic, creativity, and empathy.**  
 Passionate about design, automation, and human-centered technology.  
